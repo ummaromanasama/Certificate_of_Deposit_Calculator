@@ -5,7 +5,9 @@ A certificate of deposit (CD) is a savings account that requires you to lock you
 
 The Certificate_of_Deposit_Form repository touches upon the development of a CD document through the usage of code. The CD_Calculator.py file request data from the user such as the duration of the CD account, the deposit amount and the APY rate. As a result it reports the total intrest accrued.
 
-The CD_Header.py file displays the documents 
+The CD_Header.py file displays the documents header which contains the banks and acounds holder information.
+
+Lastly, the CD_Table.py file generates a table that showcases the monthly intrest accrued for the span of the argeement.
 
 - State the name of the GitHub repository and describe the overall projects intent.
 - If repository contains multiple files dicuss the purpose behind of the each files.
